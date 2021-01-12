@@ -1,0 +1,78 @@
+{
+  "produckt": [
+    {
+      "id": 1,
+      "name": "laptopss",
+      "preis": 250,
+      "categoryId": 122,
+      "beschreibung": "Dell Laptop",
+      "img": "https://images.unsplash.com/photo-1600121761385-c4f0427d3a52?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Maus",
+      "preis": 350,
+      "categoryId": 422,
+      "beschreibung": "Bewegt sich",
+      "img": "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "name": "laptopss",
+      "preis": 250,
+      "categoryId": 122,
+      "beschreibung": "Dell Laptop",
+      "img": "https://images.unsplash.com/photo-1600109148722-451c1069524d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Headset",
+      "preis": 50,
+      "categoryId": 420,
+      "beschreibung": "Hören reden",
+      "img": "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Artikel",
+      "preis": 250,
+      "categoryId": 122,
+      "beschreibung": "Dell Laptop",
+      "img": "https://images.unsplash.com/photo-1548611635-b6e7827d7d4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Radio",
+      "preis": 120,
+      "categoryId": 34,
+      "beschreibung": "sagt was sinloses",
+      "img": "https://images.unsplash.com/photo-1600170818504-6742a65d82ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Television",
+      "preis": 2300,
+      "categoryId": 100,
+      "beschreibung": "man kann fernsehen und sich langweillen aber ist mir egal wichtigste dass es läuft",
+      "img": "https://images.unsplash.com/photo-1600326886902-59ef9562560e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Elektronic"
+    },
+    {
+      "id": 2,
+      "name": "Haushalt"
+    },
+    {
+      "id": 3,
+      "name": "Irgendwas"
+    },
+    {
+      "id": 4,
+      "name": "Computer"
+    }
+  ]
+}
